@@ -1,2 +1,4 @@
 # algorithm
-Data Structures and Algorithm
+Hi !
+
+My work on Data Structures and Algorithm in Java 
